@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:0,Claro Sports 1
+rtp udp://239.0.13.156:2000
+#EXTINF:0,CNN
+rtp udp://239.0.3.206:2000
+#EXTINF:0,Headline News
+rtp udp://239.0.3.124:2000
+#EXTINF:0,BBC World
+rtp udp://239.0.3.12:2000
+#EXTINF:0,TNT
+rtp udp://239.0.3.237:2000
+#EXTINF:0,HBO Plus
+rtp udp://239.0.13.70:2000
+#EXTINF:0,MLB 1
+rtp udp://239.0.13.27:2000
+#EXTINF:0,MLB 2
+rtp udp://239.0.13.28:2000
+#EXTINF:0,Fox Sports 2
+rtp udp://239.0.3.247:2000
+#EXTINF:0,Fox Sports 3
+rtp udp://239.0.13.86:2000
+#EXTINF:0,ESPN
+rtp udp://239.0.3.92:2000
+#EXTINF:0,ESPN 3
+rtp udp://239.0.13.23:2000
+#EXTINF:0,ESPN HD
+rtp udp://239.0.3.205:2000
+#EXTINF:0,ESPN+
+rtp udp://239.0.13.148:2000
+#EXTINF:0,ABC 
+rtp udp://239.0.3.212:2000
+#EXTINF:0,CBS
+rtp udp://239.0.3.213:2000
+#EXTINF:0,NBC
+rtp udp://239.0.3.214:2000
+#EXTINF:0,Golf
+rtp udp://239.0.3.203:2000
+#EXTINF:0,PG-1
+rtp udp://224.220.120.2:1234
+#EXTINF:0,PG-2
+rtp udp://224.220.120.3:1234
+#EXTINF:0,PG-3
+rtp udp://224.220.120.4:1234
+#EXTINF:0,PG-4
+rtp udp://224.220.120.5:1234
